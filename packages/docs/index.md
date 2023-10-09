@@ -12,8 +12,8 @@ hero:
       link: /installation
     - theme: alt
       text: Components Docs
-      link: /components-docs/carousel
-  image: /logo3.png
+      link: /components-docs/button
+  image: /logo.png
 
 features:
   - title: Sku Components

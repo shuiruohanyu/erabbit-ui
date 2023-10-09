@@ -30,9 +30,9 @@ Use `type` and `size` to define Button's style.
   <hr />
   <div class="demo">
     <er-button type="default" circle icon="search"></er-button>
-    <er-button type="info" circle icon="cart"></er-button>
+    <er-button type="info" circle icon="lock"></er-button>
     <er-button type="primary" circle icon="cart"></er-button>
-    <er-button type="plain" circle icon="marker"></er-button>
+    <er-button type="plain" circle icon="yuan"></er-button>
     <er-button type="success" circle icon="clock"></er-button>
     <er-button type="warning" circle icon="lamp"></er-button>
     <er-button type="danger" circle icon="close"></er-button>
@@ -80,7 +80,7 @@ Use `disabled` attribute to determine whether a button is disabled. It accepts a
 
 ## Sizes
 
-Use attribute `size` to set additional sizes with `large`, `small`, `mini`, default `middle`.
+Use attribute `size` to set additional sizes with `large`, `small`, `default`, default `default`.
 
 ```vue preview
 <template>

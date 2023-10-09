@@ -26,13 +26,17 @@ body {
 #app {
   display: flex;
   height: 100vh;
+  overflow: hidden;
 }
 .aside {
   width: 200px;
   background-color: #f5f5f5;
 }
 .main {
+  box-sizing: border-box;
   padding: 50px;
   flex: 1;
+  height: 100%;
+  overflow-y: auto;
 }
 </style>

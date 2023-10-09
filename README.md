@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300px" src="http://erabbit.itheima.net/img/logo.0940ebb5.png">
+  <img width="200px" src="https://erabbit-dev.github.io/erabbit-ui/logo.png">
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ A Vue 3 based component library for erabbit web applications
 | `Pagination`      | ❎        | Pagination Component      |
 | `Skeleton`        | ❎        | Skeleton Component        |
 | `Sku`             | ❎        | Sku Component             |
-| `Step`            | ❎        | Step Component            |
+| `Step`            | ✅        | Step Component            |
 | `Tab`             | ❎        | Tab Component             |
 
 ## All Contributors
